@@ -20,6 +20,7 @@ const generateSlides = ({slides}) => {
                             style={{background: `url(./images/covers/${item.cover})`}}>
                             <div className="caption">
                                 <h4>{item.topic}</h4>
+                                <p>{item.title}</p>
                             </div>
                         </div>
                     )
