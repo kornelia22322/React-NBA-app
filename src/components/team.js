@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-const URL_TEAM = 'http://localhost:3004/teams';
+const URL_TEAM = 'https://secure-savannah-63516.herokuapp.com/teams';
 
 class Team extends Component {
     constructor(props) {

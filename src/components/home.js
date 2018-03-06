@@ -6,7 +6,7 @@ import Subscriptions from './subscriptions.js'
 import Blocks from './blocks.js'
 import Poll from './poll.js'
 
-const URL_HOME = 'http://localhost:3004/home'
+const URL_HOME = 'https://secure-savannah-63516.herokuapp.com/home'
 
 class Home extends Component {
     constructor(props) {

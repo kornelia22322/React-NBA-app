@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
 import {CSSTransitionGroup} from 'react-transition-group'
 
-const URL_TEAMS = 'http://localhost:3004/teams'
+const URL_TEAMS = 'https://secure-savannah-63516.herokuapp.com/teams'
 
 const fadeAnimation = {
     transitionName: 'fade',
