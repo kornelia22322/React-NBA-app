@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-const URL_HOME = 'https://nba-app-demo.herokuapp.com/teams'
+const URL_HOME = 'https://secure-savannah-63516.herokuapp.com/teams'
 
 class Poll extends Component {
     constructor(props) {
